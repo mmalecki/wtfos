@@ -8,5 +8,11 @@
   "dependencies": {
     "lsb-release": "0.1.x",
     "which": "1.0.x"
+  },
+  "devDependencies": {
+    "assert-called": "0.0.x"
+  },
+  "scripts": {
+    "test": "node test/mock-test.js"
   }
 }
