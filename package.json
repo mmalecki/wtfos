@@ -3,7 +3,7 @@
   "description": "More accurate OS recognition",
   "keywords": ["linux", "smartos", "os"],
   "author": "Maciej Małecki <me@mmalecki.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib/wtfos",
   "dependencies": {
     "lsb-release": "0.1.x",
