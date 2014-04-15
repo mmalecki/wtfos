@@ -15,5 +15,9 @@
   },
   "scripts": {
     "test": "node test/mock-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/wtfos.git"
   }
 }
